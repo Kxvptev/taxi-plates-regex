@@ -1,0 +1,7 @@
+D:\Программирование\MS VC#\Taxi\Taxi\bin\Debug\Taxi.exe.config
+D:\Программирование\MS VC#\Taxi\Taxi\bin\Debug\Taxi.exe
+D:\Программирование\MS VC#\Taxi\Taxi\bin\Debug\Taxi.pdb
+D:\Программирование\MS VC#\Taxi\Taxi\obj\Debug\Taxi.csprojAssemblyReference.cache
+D:\Программирование\MS VC#\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+D:\Программирование\MS VC#\Taxi\Taxi\obj\Debug\Taxi.exe
+D:\Программирование\MS VC#\Taxi\Taxi\obj\Debug\Taxi.pdb
